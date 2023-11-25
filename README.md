@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| PHP       |
+
+</details>
+
 <!--
 **cbadoud/cbadoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
